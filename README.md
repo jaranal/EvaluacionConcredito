@@ -1,2 +1,2 @@
 # EvaluacionConcredito
-Evaluación para Responsable de Pruebas Automatizadas
+Evaluación para postulación de Responsable de Pruebas Automatizadas
